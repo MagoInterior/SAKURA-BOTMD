@@ -5,6 +5,10 @@
 <img src= "https://telegra.ph/file/4f50b847d0d078a954055.jpg" alt="SAKURA BOT" width="720">
 </p>
 
+### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+
+[![Run on Repl.it](https://repl.it/badge/github/MagoInterior/SAKURA-BOTMD)](https://repl.it/github/MagoInterior/SAKURA-BOTMD) 
+
 <p align="center">
 <a href="#"><img title="BOT MULTI DEVICE" src="https://img.shields.io/badge/BOT MULTI DEVICE-blue?&style=for-the-badge"></a>
 </p>
